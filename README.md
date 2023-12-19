@@ -9,8 +9,3 @@ Ask me about **Web development, react native**
 contact me **ritikamaheshwary01@gmail.com@gmail.com**
 
  **Front-End-Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a 
-href="https://www.linkedin.com/in/ritika-narain-b7609324b"target="blank"><img align="center" 
